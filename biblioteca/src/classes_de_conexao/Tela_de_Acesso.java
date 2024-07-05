@@ -1,5 +1,6 @@
 package classes_de_conexao;
 // Comentario colocado.
+// Mais um comentário.
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
